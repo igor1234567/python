@@ -18,3 +18,6 @@ for i in my_str:
     else:
         secList.append(temp)
 print(''.join(secList))
+
+
+
